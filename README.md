@@ -1,7 +1,7 @@
-# Big Data-Driven Weather Prediction and Visualization Framework for Indian Cities
+# Big Data-Driven Weather Visualization Framework for Indian Cities
 
-🔍 Project Overview: Weather Data Prediction & Analysis for Indian Cities
-This project is focused on analyzing and processing large-scale historical weather data for over 4000+ Indian cities to enable weather pattern insights, predictions, and visualizations.
+🔍 Project Overview: Weather Data Analysis for Indian Cities
+This project is focused on analyzing and processing large-scale historical weather data for over 4000+ Indian cities to enable weather pattern insights, visualizations.
 
 ## 📦 Dataset Source
 
@@ -16,8 +16,7 @@ The primary goal of this project is to:
 - To collect and process large volumes of historical weather data from over 4,000+ Indian cities using big data tools and frameworks.
 - To perform comprehensive data cleaning, transformation, and time-series analysis to ensure high-quality input for modelling.
 - To identify and analyse seasonal patterns, extreme weather events, and temperature trends to understand climate behaviour.
-- To develop accurate predictive models for forecasting weather parameters such as temperature, humidity, rainfall, and wind speed.
-- To build interactive and user-friendly visual dashboards for real-time monitoring of weather metrics including temperature, humidity, wind speed, and precipitation.
+- To build interactive and user-friendly visual dashboards for real-time monitoring of weather metrics including temperature, humidity, wind speed.
 - To demonstrate the practical application of big data technologies in environmental monitoring and meteorological forecasting.
 
 ## 📁 Dataset Description
